@@ -1,0 +1,29 @@
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+p, a, h1{
+    color: white;
+}
+
+.widht {
+    width: 50px;
+}
+
+footer {
+    display: block;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 5px;
+    
+  }
+  .merge { margin-top: 0;
+      margin-bottom: 0;
+      color: black
+
+  }
